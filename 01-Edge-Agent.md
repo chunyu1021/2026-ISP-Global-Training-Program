@@ -4,7 +4,7 @@ Edge Agent is the first software solution that we'll cover in this training prog
 
 ## Materials
 
-- MIC-733-AO6A1 (64GB) with 512GB NVMe SSD (recommended)
+- MIC-733-AO6A1 (64GB) with 512GB NVMe SSD (recommended) + **Jetpack 6.0**
 - Logitech c270 HD webcam (recommended)
 
 ## Installation Guide
