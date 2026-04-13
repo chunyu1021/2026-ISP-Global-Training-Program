@@ -1,6 +1,6 @@
 # Edge Agent
 
-Edge Agent is the first software solution that we'll cover in this training program. Before you join the training session, please prepare the following required materials and follow the installation guide to set up your device.
+Edge Agent is the first project that we'll cover in this training program. Before you join the training session, please prepare the following required materials and follow the installation guide to set up your device.
 
 ## Materials
 
@@ -13,7 +13,14 @@ Please follow the Installation Guide [here](https://github.com/advantech-EdgeAI/
 
 ## Topics
 
-🚧 TBD
+- Brief Introduction to Advantech Solution Pilot
+- Overview of Edge Agent
+- Introduction to Edge Agent GitHub
+- Quick Demo Projects
+  - Factory Outfit Detection
+  - Clearance Space Detection
+- Exercises
+  - Adaptive Door Status Detection
 
 ## References
 
