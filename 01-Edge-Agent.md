@@ -21,6 +21,10 @@ Please follow the Installation Guide [here](https://github.com/advantech-EdgeAI/
   - Clearance Space Detection
 - Exercises
   - Adaptive Door Status Detection
+ 
+## Course Note
+
+[Download the note](https://github.com/chunyu1021/2026-ISP-Global-Training-Program/blob/main/01-Edge-Agent.pdf)
 
 ## References
 
