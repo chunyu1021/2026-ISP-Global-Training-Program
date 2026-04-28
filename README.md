@@ -7,7 +7,7 @@ Advantech Solution Pilot (ISP) is a series of applications that takes NVIDIA's s
 | Date | Topics     | Training Materials                                                                                    | Project Repository                                              |
 |------|------------|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
 | 2026.04.15 & 2025.04.22 | Edge Agent | [📖 README](https://github.com/chunyu1021/2026-ISP-Global-Training-Program/blob/main/01-Edge-Agent.md) | [🔗 GitHub Link](https://github.com/advantech-EdgeAI/Edge_Agent) |
-| 2026.04.29 & 2025.05.06 | VSS on Jetson Thor | [📖 README]() | [🔗 GitHub Link](https://github.com/advantech-EdgeAI/VSS) |
+| 2026.04.29 & 2025.05.06 | VSS on Jetson Thor | [📖 README](https://github.com/chunyu1021/2026-ISP-Global-Training-Program/blob/main/02-VSS.md) | [🔗 GitHub Link](https://github.com/advantech-EdgeAI/VSS) |
 
 ## Important Note
 
