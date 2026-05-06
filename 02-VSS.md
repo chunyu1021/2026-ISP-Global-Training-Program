@@ -15,10 +15,15 @@ Please follow the Installation Guide [here](https://github.com/advantech-EdgeAI/
 - Brief Introduction to VSS on Jetson Thor
 - Tips and Pitfalls for Using VSS
 - Examples
-  - Video File as Source: Warehouse Example
-  - Camera Stream as Source: Clearance Space Detection
+  - [Video File as Source: Warehouse Example](https://youtu.be/7wq45Iavhlk)
+  - [Camera Stream as Source: Clearance Space Detection](https://youtu.be/SmM5lReQROs)
 - Exercises
-  - Sample prompts and questions from [NVIDIA’s official manual]()
+  - Sample prompts and questions from [NVIDIA’s official manual](https://docs.nvidia.com/vss/2.4.1/content/examples.html)
+
+## Course Recordings
+
+- [▶️ English Session](https://youtu.be/ns-MZSOjXJ0)
+- [▶️ Chinese Session](https://youtu.be/VbCcE7S2DRg)
  
 ## Course Note
 
